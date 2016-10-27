@@ -8,7 +8,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_99444152f3d4d6cd8d92c58f16eb1e71d3f03b8d/classes.dex" />
+        <dex dex="/Users/developer/Documents/github/DigitalCoinsList/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_99444152f3d4d6cd8d92c58f16eb1e71d3f03b8d/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -21,39 +21,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_a1d929ba21ecc208954135253d66b3fa006f3854/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/developer/Documents/github/DigitalCoinsList/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
         <dex dex="/Users/developer/Documents/github/DigitalCoinsList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_d38c579a8db010a21dca5372f1ccced2e3dcd8f3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_7f2fb2e5ad36b65cddacf5f2d8a0cff1759c027f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a5c048ae5e881c9e6c637dc1468112ffb9ccfd7a/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -75,15 +48,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_158e0a16fb6109a88a88e4a4f0f83f027b70e227/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/developer/Documents/github/DigitalCoinsList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -102,15 +66,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e0710f0667387cc235313e22b1ef6c4818e5e7e8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/developer/Documents/github/DigitalCoinsList/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
@@ -120,21 +75,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0c13b5f151dd4f578a706f8c1933726630d34297">
-        <dex dex="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d5f970e79c7930cd11badd09ad7d73c4950f822a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/developer/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_2ce219348becc169b73c6244afd9a939c2d3f102/classes.dex" />
+        <dex dex="/Users/developer/Documents/github/DigitalCoinsList/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_2ce219348becc169b73c6244afd9a939c2d3f102/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -151,17 +97,8 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="fbd7ac1ef16c502e4fb3ba2578562b7c19435fad">
+        sha1="22e8eb52e2188d34d69871139589f8e46cec90d9">
         <dex dex="/Users/developer/Documents/github/DigitalCoinsList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d5aab0d2562f333b8a743849c1e5303c6de31a9c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_b45a82327f4491a932b7534a49fb75a5db1e472e/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -174,30 +111,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_e27ea3dbbd3e8253464ad1eb3a606be4a6726b54/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/developer/Documents/github/DigitalCoinsList/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="867dad63c33388ff8c7644b236579355036d075f">
         <dex dex="/Users/developer/Documents/github/DigitalCoinsList/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_226bcb33f95dd2c26d51106158057b93e605ecc3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_cda9b2a3e4852e2464a86db4089f405acf79aeb7/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -228,51 +147,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_8cb7bd2b0c80ebc9783e2a4bca860e5ac7b56705/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_9e3502b10ac6113dd8326f0b8232adf66ab9396a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="3a89e51389020be4ca176e8757074eb19d1b1776">
-        <dex dex="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6d14b44386b8fce28db6b64ee891f746c39a6c87/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f06d7721711f117a4830b05d0313d056087347c1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a4b4166479394075f13d861aa4c74ea679d6882d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/developer/Documents/github/DigitalCoinsList/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -286,26 +160,8 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="03ad091dfcee8c857ffafba898254d0d4318f523">
+        sha1="bc434eae40dd09a7a6b054eedfbe6ebcfa5e05f6">
         <dex dex="/Users/developer/Documents/github/DigitalCoinsList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_26a3fd68545282799181c8d2bbed0e9810125145/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_715ca78b61a83fc90b56dbcf50aa7991d57f6fc3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/developer/AndroidStudioProjects/MoedasDigitais/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_5dc96f58d15a3141290dfb5867447fa42796829c/classes.dex" />
     </item>
 
 </items>

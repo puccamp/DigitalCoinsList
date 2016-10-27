@@ -22,11 +22,11 @@ import java.util.List;
  * Created by Breno Antunes on 20/10/16.
  */
 
-public class httpMarket extends AsyncTask<String, Void, List<Coin>>{
+public class httpMarket extends AsyncTask<String, Void, ArrayList<Coin>>{
 
 
     @Override
-    protected List<Coin> doInBackground(String... params) {
+    protected ArrayList<Coin> doInBackground(String... params) {
         HttpURLConnection urlConnection = null;
         String resultString = "";
         try {
@@ -46,7 +46,7 @@ public class httpMarket extends AsyncTask<String, Void, List<Coin>>{
 
         JsonArray coinsArray = gson.fromJson(resultString, JsonArray.class);
 
-        List<Coin> coinsList = new ArrayList<Coin>();
+        ArrayList<Coin> coinsList = new ArrayList<Coin>();
         Coin coinObject;
         for (JsonElement coin: coinsArray) {
             coinObject = gson.fromJson(coin.getAsJsonObject(), Coin.class);

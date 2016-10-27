@@ -59,4 +59,60 @@ public class Coin {
         this.percent_change_7d = percent_change_7d;
         this.last_updated = last_updated;
     }
+
+    public String getId() {
+        return id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getSymbol() {
+        return symbol;
+    }
+
+    public int getRank() {
+        return rank;
+    }
+
+    public double getPrice_usd() {
+        return price_usd;
+    }
+
+    public double getPrice_btc() {
+        return price_btc;
+    }
+
+    public double getOne_day_volume_usd() {
+        return one_day_volume_usd;
+    }
+
+    public double getMarket_cap_usd() {
+        return market_cap_usd;
+    }
+
+    public double getAvailable_supply() {
+        return available_supply;
+    }
+
+    public double getTotal_supply() {
+        return total_supply;
+    }
+
+    public double getPercent_change_1h() {
+        return percent_change_1h;
+    }
+
+    public double getPercent_change_24h() {
+        return percent_change_24h;
+    }
+
+    public double getPercent_change_7d() {
+        return percent_change_7d;
+    }
+
+    public long getLast_updated() {
+        return last_updated;
+    }
 }
