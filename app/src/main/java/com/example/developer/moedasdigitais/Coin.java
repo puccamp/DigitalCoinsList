@@ -15,7 +15,7 @@ public class Coin {
     private double market_cap_usd;// "10053877627.0"
     private double available_supply;// "15931200.0"
     private double total_supply;// "15931200.0"
-    private double percent_change_1h;// "-0.01"
+    private double percent_change_1h;// ?"-0.01"
     private double percent_change_24h;// "-0.77"
     private double percent_change_7d;// "-0.92"
     private long last_updated;// "1476965967"
@@ -43,7 +43,7 @@ public class Coin {
     public Coin(){
     }
 
-    public Coin(String id, String name, String symbol, int rank, double price_usd, double price_btc, long one_day_volume_usd, long market_cap_usd, long available_supply, long total_supply, double percent_change_1h, double percent_change_24h, double percent_change_7d, long last_updated) {
+    public Coin(String id, String name, String symbol, int rank, double price_usd, double price_btc, long one_day_volume_usd, long market_cap_usd, double available_supply, long total_supply, double percent_change_1h, double percent_change_24h, double percent_change_7d, long last_updated) {
         this.id = id;
         this.name = name;
         this.symbol = symbol;

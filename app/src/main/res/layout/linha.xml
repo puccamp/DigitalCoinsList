@@ -11,16 +11,17 @@ android:padding="1dip" >
     <TextView android:id="@+id/titulo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textSize="16sp"
         android:textStyle="bold"/>\
     <TextView android:id="@+id/price_usd"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="16sp"/>
+        android:textSize="14sp"/>
     <TextView android:id="@+id/price_btc"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/price_usd"
-        android:textSize="16sp"/>
+        android:textSize="14sp"/>
 
 </LinearLayout>
 </LinearLayout>

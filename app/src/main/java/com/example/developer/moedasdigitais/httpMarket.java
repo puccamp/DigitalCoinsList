@@ -30,7 +30,7 @@ public class httpMarket extends AsyncTask<String, Void, ArrayList<Coin>>{
         HttpURLConnection urlConnection = null;
         String resultString = "";
         try {
-            URL url = new URL("https://api.coinmarketcap.com/v1/ticker?limit=10");
+            URL url = new URL("https://api.coinmarketcap.com/v1/ticker");
             urlConnection = (HttpURLConnection) url.openConnection();
             InputStream in = new BufferedInputStream(urlConnection.getInputStream());
             resultString = readStream(in);

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:paddingLeft="4sp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvNameRank"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:text="@string/prop_rank"/>
+
+    <TextView
+        android:id="@id/tvRank"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvNameRank"/>
+
+    <TextView
+        android:id="@id/tvNameSymbol"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvRank"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:text="@string/prop_symbol"/>
+
+    <TextView
+        android:id="@id/tvSymbol"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvNameSymbol"/>
+
+
+    <TextView
+        android:id="@id/tvNamePrice_btc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvSymbol"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:text="@string/prop_btc"/>
+
+    <TextView
+        android:id="@id/tvPrice_btc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvNamePrice_btc"/>
+
+
+    <TextView
+        android:id="@id/tvNamePrice_usd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvPrice_btc"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:text="@string/prop_usd"/>
+
+    <TextView
+        android:id="@id/tvPrice_usd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvNamePrice_usd"/>
+
+
+    <TextView
+        android:id="@id/tvNameTotalSupply"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvPrice_btc"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:text="@string/prop_supply"/>
+
+    <TextView
+        android:id="@id/tvTotalSupply"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvNameTotalSupply"/>
+
+
+    <TextView
+        android:id="@id/tvNamePercentage1h"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvTotalSupply"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:text="@string/prop_percent_hour"/>
+
+    <TextView
+        android:id="@id/tvPercentage1h"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvNamePercentage1h"/>
+
+
+    <TextView
+        android:id="@id/tvNamePercentage24h"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvPercentage1h"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:text="@string/prop_percent_day"/>
+
+    <TextView
+        android:id="@id/tvPercentage24h"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvNamePercentage24h"/>
+
+    <TextView
+        android:id="@id/tvNamePercentageOneWeek"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvPercentage24h"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:text="@string/prop_percent_week"/>
+
+    <TextView
+        android:id="@id/tvPercentageOneWeek"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvNamePercentageOneWeek"/>
+
+</LinearLayout>

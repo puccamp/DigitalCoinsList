@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">MoedasDigitais</string>
+    <string name="app_name">Moedas Digitais</string>
+    <string name="prop_rank">Ranking</string>
+    <string name="prop_symbol">Symbol</string>
+    <string name="prop_btc">Price in Bitcon</string>
+    <string name="prop_usd">Price in USD</string>
+    <string name="prop_supply">Total Supply</string>
+    <string name="prop_percent_hour">Change last hour</string>
+    <string name="prop_percent_day">Change last day</string>
+    <string name="prop_percent_week">Change last week</string>
 </resources>

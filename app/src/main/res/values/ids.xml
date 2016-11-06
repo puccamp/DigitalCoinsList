@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="lvProp" type="id" />
+    <item name="tvPrice_btc" type="id" />
+    <item name="tvNamePrice_usd" type="id" />
+    <item name="tvPrice_usd" type="id" />
+    <item name="tvRank" type="id" />
+    <item name="tvNameSymbol" type="id" />
+    <item name="tvSymbol" type="id" />
+    <item name="tvNamePrice_btc" type="id" />
+    <item name="tvNameOneDayVolume" type="id" />
+    <item name="tvOneDayVolume" type="id" />
+    <item name="tvNamePercentage1h" type="id" />
+    <item name="tvPercentage1h" type="id" />
+    <item name="tvNamePercentage24h" type="id" />
+    <item name="tvPercentage24h" type="id" />
+    <item name="tvNamePercentageOneWeek" type="id" />
+    <item name="tvPercentageOneWeek" type="id" />
+    <item name="tvNameTotalSupply" type="id" />
+    <item name="tvTotalSupply" type="id" />
+</resources>

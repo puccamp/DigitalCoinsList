@@ -97,7 +97,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="22e8eb52e2188d34d69871139589f8e46cec90d9">
+        sha1="9cbc0bbd0fff8112fbaa45d9a7fcc3ebd5465fcf">
         <dex dex="/Users/developer/Documents/github/DigitalCoinsList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d5aab0d2562f333b8a743849c1e5303c6de31a9c/classes.dex" />
     </item>
     <item
@@ -160,7 +160,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="bc434eae40dd09a7a6b054eedfbe6ebcfa5e05f6">
+        sha1="b98aee68c0669635902abb74031bf1bc550b762c">
         <dex dex="/Users/developer/Documents/github/DigitalCoinsList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_26a3fd68545282799181c8d2bbed0e9810125145/classes.dex" />
     </item>
 
